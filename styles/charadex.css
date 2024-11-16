@@ -15,8 +15,8 @@ body {
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color:                    #8FB7D4;
-  --cd-primary-text-color:               #fff;
+  --cd-primary-color:                    #0a293f;
+  --cd-primary-text-color:               #f2f6cb;
 
   /* ============================================================= */
   /* Secondary Color
@@ -27,9 +27,9 @@ body {
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color:            #f8f8f8;
-  --cd-content-background-color:         #ffffff;
-  --cd-faded-background-color:           #f8f8f8;
+  --cd-body-background-color:            #1b252c;
+  --cd-content-background-color:         #dbf4ff;
+  --cd-faded-background-color:           #ffffff;
 
   /* Background Extras */
   --cd-body-background-image:             url();
@@ -37,8 +37,8 @@ body {
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color:                  #303030;
-  --cd-faded-text-color:                 #575757;
+  --cd-body-text-color:                  #050112;
+  --cd-faded-text-color:                 #05082a;
 
   /* ============================================================= */
   /* Borders
@@ -51,8 +51,8 @@ body {
   /* ============================================================= */
   /* Navbar
   ================================================================ */
-  --cd-navbar-background-color:          #222222;
-  --cd-navbar-brand-color:               var(--cd-primary-color);
+  --cd-navbar-background-color:          #040216;
+  --cd-navbar-brand-color:               var(--cd-primary-text-color);
   --cd-navbar-brand-color-hover:         var(--cd-secondary-color);
   --cd-navbar-text-color:                var(--cd-content-background-color);
   --cd-navbar-link-color:                var(--cd-navbar-text-color);
